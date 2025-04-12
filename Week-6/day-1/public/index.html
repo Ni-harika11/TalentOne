@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Correct Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <title>Weather Project</title>
+</head>
+<body>
+    <div>
+        <nav class="bg-gray-800 h-16 flex items-center justify-between px-4">
+          <!-- Name aligned to the left -->
+          <div class="text-white text-lg font-bold">
+            <span class="text-[#12F2E3]">N</span>IHA<span class="text-[#12F2E3]">RI</span>KA
+          </div>
+          <!-- Logo on the right -->
+          <div class="flex items-center">
+            <img class="h-8 w-auto" src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500" alt="Your Company">
+          </div>
+        </nav>
+    </div>
+      
+    <div class="flex h-screen">
+         <!--   Left side (Text + Button) -->
+         <div class="w-1/2 flex flex-col items-center justify-center text-white">
+            <h1 class="text-5xl text-black mb-7  font-bold  text-center leading-snug">Welcome To <b class="text-customCyan" style="color: #12F2E3;"> Weather</b> App</h1>
+            <p class="text-1xl text-black   mb-6 text-center leading-snug">
+                Get The Latest Weather  Info Of Your City
+            </p>
+            <button class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                <a href="./login_singup.html">Get Started</a>
+            </button>
+        </div>
+        <!-- Right side(Image) -->
+        <div class="w-1/2 flex items-center justify-center">
+          <img class="h-[400px] w-[450px] object-cover" src="../assets/3366845.jpg" alt="Weather App Image">
+
+          <!-- <img class="h-140 w-150" src="../assets/3366845.jpg" alt="Weather App Image"> -->
+        </div>
+    </div>
+</body>
+</html>
