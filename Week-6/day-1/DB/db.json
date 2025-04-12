@@ -1,0 +1,45 @@
+{
+  "user": [
+    {
+      "id": "7244",
+      "firstName": "Niharika",
+      "lastName": "Malik",
+      "email": "qwm@wed.com",
+      "password": "111111",
+      "confirmpassd": ""
+    },
+    {
+      "id": "b059",
+      "firstName": "asdn",
+      "lastName": "ASKN",
+      "email": "ASDN@WD.com",
+      "password": "123456",
+      "favorites": [
+        "Kendrapada",
+        "puri",
+        "jajpur"
+      ]
+    },
+    {
+      "id": "c6f0",
+      "firstName": "wdn",
+      "lastName": "qwdh",
+      "email": "as@akdn.com",
+      "password": "999999",
+      "favorites": [
+        "odisha"
+      ]
+    },
+    {
+      "id": "0089",
+      "firstName": "Niharika",
+      "lastName": "Malik",
+      "email": "malikniharika048@gmail.com",
+      "password": "Niharika@123",
+      "favorites": [
+        "mohali",
+        "odisha"
+      ]
+    }
+  ]
+}
