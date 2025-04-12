@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": "f72e",
+      "fullname": "Niharika Malik",
+      "email": "malikniharika048@gmail.com",
+      "password": "000000"
+    },
+    {
+      "id": "6c28",
+      "fullname": "niharika",
+      "email": "mnmdcds@asdn.com",
+      "password": "111111"
+    },
+    {
+      "id": "937c",
+      "fullname": "Niharika Malik",
+      "email": "malikn8@gmail.com",
+      "password": "999999"
+    },
+    {
+      "id": "aca7",
+      "fullName": "Niharika Malik",
+      "email": "malikniharika048@gmail.com",
+      "password": "22222"
+    },
+    {
+      "id": "c40e",
+      "fullName": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "f880",
+      "fullName": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "9047",
+      "fullName": "",
+      "email": "",
+      "password": ""
+    }
+  ]
+}
