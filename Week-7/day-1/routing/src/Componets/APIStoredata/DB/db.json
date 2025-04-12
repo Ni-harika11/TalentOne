@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "55e4",
+      "name": "Niharika Malik",
+      "email": "malikniharika048@gmail.com",
+      "password": "111111111",
+      "confirmpassword": "111111111"
+    },
+    {
+      "id": "70e5",
+      "name": "Niharika Malik",
+      "email": "malikniharika048@gmail.com",
+      "password": "000000000",
+      "confirmpassword": "000000000"
+    }
+  ]
+}
