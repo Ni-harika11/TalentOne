@@ -1,0 +1,10 @@
+Project Structure and Organization
+=================================
+1)Top-level folders:
+=================================
+=>app	App Router
+=>pages	Pages Router
+=>public	Static assets to be served
+=>src	Optional application source folder
+Client-side Rendering (CSR)
+===========================

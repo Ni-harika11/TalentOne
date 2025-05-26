@@ -1,0 +1,6 @@
+npm init -y
+make file .js
+npm i express
+npm i mongoose
+npx nodemon file name
+$ npx nodemon code.js

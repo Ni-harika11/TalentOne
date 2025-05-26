@@ -111,6 +111,52 @@ function handleUserRole(user: User): void {
   }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // document.addEventListener("DOMContentLoaded", () => {
 //   const loginForm = document.getElementById('loginFormElement') as HTMLFormElement;
 //   const userEmail = document.getElementById("login-email") as HTMLInputElement;

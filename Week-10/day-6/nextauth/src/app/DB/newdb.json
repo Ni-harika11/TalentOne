@@ -1,0 +1,25 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "title": "Another day, another post",
+      "content": "Content for the second post goes here.",
+      "author": "Jane Smith",
+      "date": "2023-10-02"
+    },
+    {
+      "id": "2",
+      "title": "Exploring the world of coding",
+      "content": "Content for the third post goes here.",
+      "author": "John Doe",
+      "date": "2023-10-03"
+    },
+    {
+      "id": "3",
+      "title": "The beauty of nature",
+      "content": "Content for the fourth post goes here.",
+      "author": "Alice Johnson",
+      "date": "2023-10-04"
+    }
+  ]
+}
